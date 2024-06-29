@@ -40,8 +40,8 @@ The **AI Init** is a powerful bash script designed to streamline the initial set
 
 1. **Clone the Repository**
    ```bash
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone https://github.com/Yasirrazaa/AI-Init
+   cd AI-Init
    ```
 
 2. **Make the Script Executable**
